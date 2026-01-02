@@ -30,7 +30,9 @@ This project documents the deployment and operation of a Wazuh-based SIEM used t
 
 ## 📸 **Screenshot(s):**
 
-screenshots/alert-details.png
+### Alert Details:
+---
+<img width="1891" height="567" alt="image" src="https://github.com/user-attachments/assets/5b42a116-7a2d-4b1c-a6a0-9b3e54ac4e8e" />
 
 ## **Investigation Examples**
 
@@ -40,7 +42,9 @@ screenshots/alert-details.png
 
 ## 📸 ***Screenshot placeholder:***
 
-screenshots/alert-investigation.png
+### Alert Investigation:
+---
+<img width="1878" height="794" alt="Alert Investigation" src="https://github.com/user-attachments/assets/42597fd3-5368-4185-a4f6-9674b0d61a0f" />
 
 ## **Tools Used**
 
