@@ -10,11 +10,16 @@ This project documents the deployment and operation of a Wazuh-based SIEM used t
 - Wazuh Indexer and Dashboard
 - Windows and Linux endpoints
 
-### 📸 **Screenshot(s):**
+## 📸 **Screenshot(s):**
 
-screenshots/wazuh-dashboard-overview.png
+### Wazuh Dashboard:
+---
+<img width="1880" height="914" alt="Wazuh Dashboard" src="https://github.com/user-attachments/assets/88b50140-87d7-41ee-8d1f-a89a455ad660" />
 
-screenshots/agent-status.png
+### Wazuh Agent Status:
+---
+<img width="1904" height="588" alt="Wazuh Agent Summary" src="https://github.com/user-attachments/assets/040379a8-d3e0-478d-a20a-405e12472179" />
+
 
 ## **What I Implemented**
 
@@ -23,7 +28,7 @@ screenshots/agent-status.png
 - Centralised Windows Event Logs and Linux syslogs
 - Tuned rules to reduce false positives
 
-### 📸 **Screenshot(s):**
+## 📸 **Screenshot(s):**
 
 screenshots/alert-details.png
 
@@ -33,7 +38,7 @@ screenshots/alert-details.png
 - Suspicious process execution
 - Policy and compliance alerts
 
-### 📸 ***Screenshot placeholder:***
+## 📸 ***Screenshot placeholder:***
 
 screenshots/alert-investigation.png
 
